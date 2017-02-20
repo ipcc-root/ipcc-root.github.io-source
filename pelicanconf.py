@@ -60,7 +60,7 @@ BOOTSTRAP_THEME='spacelab'
 DISPLAY_BREADCRUMBS=False
 
 BOOTSTRAP_NAVBAR_INVERSE =True
-#BANNER="images/ipcc-root-banner.jpg"
+BANNER="images/ipcc-root-banner.jpg"
 #BANNER_TITLE=None
 #BANNER_SUBTITLE = None
 BANNER_SUBTITLE="An IPCC to Modernize the ROOT Math and I/O Libraries"

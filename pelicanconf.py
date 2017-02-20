@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'IPCC ROOT'
 SITENAME = u'IPCC ROOT'
-SITEURL = ''
+SITEURL = 'http://ipcc-root.github.io'
 
 TIMEZONE = 'Europe/Paris'
 

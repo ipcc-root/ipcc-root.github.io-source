@@ -86,8 +86,10 @@ NOTEBOOK_DIR = 'downloads/notebooks'
 FAVICON= "images/favicon.ico"
 
 PLUGIN_PATHS = ['pelican-plugins']
-PLUGINS = ['summary', 'tipue_search']
-
+PLUGINS = ['summary', 'liquid_tags.img', 'liquid_tags.video',
+                        'liquid_tags.youtube', 'render_math',
+           'liquid_tags.include_code', 'liquid_tags.notebook',
+           'liquid_tags.literal', 'tipue_search']
 
 # comments
 #DISQUS_SITENAME="ipcc-root"

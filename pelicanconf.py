@@ -29,6 +29,7 @@ LINKS =  (('Intel PCC','https://software.intel.com/en-us/ipcc'),
 		  ('Website github', 'https://github.com/ipcc-root'),
 		  )
 
+
 # Social widget
 # Do not set for now, include these links in LINKS above
 #SOCIAL = (('github', 'http://github.com/ipcc-root'),

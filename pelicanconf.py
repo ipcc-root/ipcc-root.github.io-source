@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'IPCC ROOT'
 SITENAME = u'IPCC ROOT'
-SITEURL = 'http://ipcc-root.github.io'
+SITEURL = ''
 
 TIMEZONE = 'Europe/Paris'
 
@@ -62,7 +62,7 @@ BOOTSTRAP_THEME='spacelab'
 DISPLAY_BREADCRUMBS=False
 
 BOOTSTRAP_NAVBAR_INVERSE =True
-#BANNER="images/ipcc-root-banner.jpg"
+BANNER="images/ipcc-root-banner.jpg"
 BANNER_TITLE=None
 #BANNER_SUBTITLE = None
 BANNER_SUBTITLE="An IPCC to Modernize the ROOT Math and I/O Libraries"
@@ -70,7 +70,6 @@ BANNER_ALL_PAGES = False
 
 #custom CSS
 CUSTOM_CSS = 'static/custom.css'
-
 
 #DIRECT_TEMPLATES = ('index', 'categories', 'authors', 'archives', 'search')
 DIRECT_TEMPLATES = ('index', 'categories', 'authors', 'archives')

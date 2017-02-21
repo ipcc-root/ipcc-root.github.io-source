@@ -63,7 +63,8 @@ DISPLAY_BREADCRUMBS=False
 
 BOOTSTRAP_NAVBAR_INVERSE =True
 #BANNER="images/ipcc-root-banner.png"
-BANNER="images/ipcc-root-banner-faded.png"
+#BANNER="images/ipcc-root-banner-faded.png"
+BANNER="images/ipcc-root-banner-faded2-crop.png"
 BANNER_TITLE=None
 #BANNER_SUBTITLE = None
 BANNER_SUBTITLE="Princeton/Intel Parallel Computing Center to Modernize the ROOT Math and I/O Libraries"

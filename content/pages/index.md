@@ -7,7 +7,5 @@ Template: homepage
 
 Coming Soon....
 
-The Princeton Intel ROOT Parallel Computing Center (IPCC ROOT) is funded via Intel's
-[Intel Parallel Computing Center (IPCC)](https://software.intel.com/en-us/ipcc)
-program. 
+The Princeton/Intel Parallel Computing Center to modernize [ROOT](https://root.cern.ch/) (IPCC ROOT) is funded via Intel's [Intel Parallel Computing Center (IPCC)](https://software.intel.com/en-us/ipcc) program. 
 

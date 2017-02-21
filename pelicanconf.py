@@ -54,7 +54,8 @@ THEME = 'pelican-themes/pelican-bootstrap3'
 PYGMENTS_STYLE='default'
 #PYGMENTS_STYLE='friendly'
 
-BOOTSTRAP_THEME='spacelab'
+#BOOTSTRAP_THEME='spacelab'
+BOOTSTRAP_THEME='Flatly'
 #BOOTSTRAP_THEME='yeti'
 #BOOTSTRAP_THEME='superhero' #nice but, background doesn't work well with code as is
 #BOOTSTRAP_THEME='cosmo'

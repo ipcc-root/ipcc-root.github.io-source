@@ -3,7 +3,7 @@ date: 2017-02-20 07:51
 slug: about.html
 Authors: Peter Elmer
 Summary: Summary of the Intel ROOT Parallel Computing Center Project
-
+Template: page
 
 ### Project Team
 

@@ -88,10 +88,14 @@ CODE_DIR = 'downloads/code'
 FAVICON= "images/favicon.ico"
 
 PLUGIN_PATHS = ['pelican-plugins']
-PLUGINS = ['summary', 'liquid_tags.img', 'liquid_tags.video',
+PLUGINS = ['summary', 'i18n_subsites', 'liquid_tags.img', 'liquid_tags.video',
                         'liquid_tags.youtube', 'render_math',
            'liquid_tags.include_code', 
            'liquid_tags.literal', 'tipue_search']
+JINJA_ENVIRONMENT = {
+    'extensions': ['jinja2.ext.i18n'],
+}
+
 
 # comments
 #DISQUS_SITENAME="ipcc-root"

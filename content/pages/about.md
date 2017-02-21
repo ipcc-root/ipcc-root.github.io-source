@@ -7,7 +7,7 @@ Template: page
 
 ### Project Team
 
-  * [Peter Elmer](http://www.princeton.edu/physics/people/display_person.xml?netid=gelmer&display=Research%20Staff) (Lead PI) - Princeton University, Department of Physics
+  * [Peter Elmer](http://www.princeton.edu/physics/people/display_person.xml?netid=gelmer&display=Research%20Staff) (PI) - Princeton University, Department of Physics
 
   * [Vassil Vassilev](https://github.com/vgvassilev/) - Princeton University & ROOT Intel Parallel Computing Center
 

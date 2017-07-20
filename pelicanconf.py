@@ -28,6 +28,7 @@ MENUITEMS = (
 LINKS =  (('Intel PCC','https://software.intel.com/en-us/ipcc'),
 		  ('ROOT','https://root.cern.ch/'),
 		  ('DIANA/HEP','http://diana-hep.org'),
+		  ('Parallel Kalman Filter Tracking','http://trackreco.github.io'),
 		  ('Website github', 'https://github.com/ipcc-root'),
 		  )
 

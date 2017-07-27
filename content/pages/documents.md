@@ -7,6 +7,7 @@ Template: page
 
 ### Status Reports
 
+  * 01 Aug 2017 - [Intel Showcase Presentation](https://ipcc-root.github.io/downloads/20170801-ipcc-princeton-showcase-presentation.pdf) (V.Vassilev)
   * 20 Jul 2017 - [Biweekly Report](https://ipcc-root.github.io/downloads/20170720-ipcc-princeton-status-report-biweekly.pdf) (V.Vassilev)
   * 04 Jul 2017 - [Triweekly Report](https://ipcc-root.github.io/downloads/20170704-ipcc-princeton-status-report-triweekly.pdf) (V.Vassilev)
   * 14 Jun 2017 - [Triweekly Report](https://ipcc-root.github.io/downloads/20170614-ipcc-princeton-status-report-triweekly.pdf) (V.Vassilev)

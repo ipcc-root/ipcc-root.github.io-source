@@ -7,6 +7,7 @@ Template: page
 
 ### Status Reports
 
+  * 24 Oct 2017 - [Triweekly Report](https://ipcc-root.github.io/downloads/20171024-ipcc-princeton-status-report-triweekly.pdf) (V.Vassilev)
   * 03 Oct 2017 - [Triweekly Report](https://ipcc-root.github.io/downloads/20171003-ipcc-princeton-status-report-triweekly.pdf) (V.Vassilev)
   * 12 Sep 2017 - [Triweekly Report](https://ipcc-root.github.io/downloads/20170912-ipcc-princeton-status-report-triweekly.pdf) (V.Vassilev)
   * 22 Aug 2017 - [Triweekly Report](https://ipcc-root.github.io/downloads/20170822-ipcc-princeton-status-report-triweekly.pdf) (V.Vassilev)

@@ -7,6 +7,7 @@ Template: page
 
 ### Status Reports
 
+  * 19 Jul 2018 - [Monthly Report](https://ipcc-root.github.io/downloads/20180719-ipcc-princeton-status-report-monthly.pdf) (V.Vassilev)
   * 21 Jun 2018 - [Triweekly Report](https://ipcc-root.github.io/downloads/20180621-ipcc-princeton-status-report-triweekly.pdf) (V.Vassilev)
   * 30 May 2018 - [Triweekly Report](https://ipcc-root.github.io/downloads/20180530-ipcc-princeton-status-report-triweekly.pdf) (V.Vassilev)
   * 08 May 2018 - [Biweekly Report](https://ipcc-root.github.io/downloads/20180508-ipcc-princeton-status-report-biweekly.pdf) (V.Vassilev)

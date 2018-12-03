@@ -7,6 +7,7 @@ Template: page
 
 ### Status Reports
 
+  * 04 Dec 2018 - [Monthly Report](https://ipcc-root.github.io/downloads/20181204-ipcc-princeton-status-report-monthly.pdf) (V.Vassilev)
   * 08 Nov 2018 - [Intel Showcase Presentation](https://ipcc-root.github.io/downloads/20181108-ipcc-princeton-showcase-presentation.pdf) (V.Vassilev)
   * 23 Oct 2018 - [Biweekly Report](https://ipcc-root.github.io/downloads/20181023-ipcc-princeton-status-report-biweekly.pdf) (V.Vassilev)
   * 05 Oct 2018 - [Monthly Report](https://ipcc-root.github.io/downloads/20181005-ipcc-princeton-status-report-monthly.pdf) (V.Vassilev)
